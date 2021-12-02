@@ -14,7 +14,7 @@ Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 ### Step 5: 
-Assign a variable after slicing and print tha value
+Assign a variable after slicing and print the value
 ### Step 6: 
 End the program
 ## Program:
