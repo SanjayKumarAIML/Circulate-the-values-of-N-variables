@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1: 
 Define a function circulate()
 ### Step 2:
-Assign the valuse as a list
+Assign the values as a list
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
